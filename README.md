@@ -1,2 +1,2 @@
-# learning_Streamlit
+# Learning Streamlit
 The aim of this repository is to learn how to work with Streamlit.
